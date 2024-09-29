@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashgarg30/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yashgarg30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/yashgarg30/Leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -196,4 +198,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/yashgarg30/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Graph
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/yashgarg30/Leetcode/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
