@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Design
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
