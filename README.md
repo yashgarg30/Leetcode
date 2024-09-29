@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Bit Manipulation
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yashgarg30/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Two Pointers
 |  |
