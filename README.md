@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/yashgarg30/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/yashgarg30/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/yashgarg30/Leetcode/tree/master/1811-fix-names-in-a-table) |
+| [1908-recyclable-and-low-fat-products](https://github.com/yashgarg30/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Counting
 |  |
 | ------- |
