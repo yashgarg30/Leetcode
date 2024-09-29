@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+## Database
+|  |
+| ------- |
+| [1811-fix-names-in-a-table](https://github.com/yashgarg30/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
