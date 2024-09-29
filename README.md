@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
@@ -141,9 +143,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
+## Binary Search
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
