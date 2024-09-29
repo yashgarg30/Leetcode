@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/yashgarg30/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1670-patients-with-a-condition](https://github.com/yashgarg30/Leetcode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/yashgarg30/Leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
