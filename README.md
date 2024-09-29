@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 ## Queue
@@ -152,13 +154,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
