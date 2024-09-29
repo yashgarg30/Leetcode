@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/yashgarg30/Leetcode/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/yashgarg30/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/yashgarg30/Leetcode/tree/master/0197-rising-temperature) |
+| [1258-article-views-i](https://github.com/yashgarg30/Leetcode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/yashgarg30/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/yashgarg30/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/yashgarg30/Leetcode/tree/master/1625-group-sold-products-by-the-date) |
