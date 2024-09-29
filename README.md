@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/yashgarg30/Leetcode/tree/master/0859-design-circular-deque) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashgarg30/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yashgarg30/Leetcode/tree/master/0001-two-sum) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashgarg30/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashgarg30/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashgarg30/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yashgarg30/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashgarg30/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashgarg30/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashgarg30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
@@ -99,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yashgarg30/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yashgarg30/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
