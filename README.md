@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/yashgarg30/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Depth-First Search
 |  |
@@ -120,10 +122,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yashgarg30/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
