@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashgarg30/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashgarg30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgarg30/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/yashgarg30/Leetcode/tree/master/0075-sort-colors) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashgarg30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yashgarg30/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashgarg30/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yashgarg30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
