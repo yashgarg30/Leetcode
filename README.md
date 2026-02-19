@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/yashgarg30/Leetcode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/yashgarg30/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yashgarg30/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/yashgarg30/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashgarg30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/yashgarg30/Leetcode/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/yashgarg30/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/yashgarg30/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yashgarg30/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yashgarg30/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
