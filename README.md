@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/yashgarg30/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashgarg30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashgarg30/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/yashgarg30/Leetcode/tree/master/0217-contains-duplicate) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashgarg30/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/yashgarg30/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yashgarg30/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yashgarg30/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1002-maximum-width-ramp](https://github.com/yashgarg30/Leetcode/tree/master/1002-maximum-width-ramp) |
 ## Backtracking
 |  |
