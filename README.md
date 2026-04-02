@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashgarg30/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/yashgarg30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/yashgarg30/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashgarg30/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/yashgarg30/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashgarg30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashgarg30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yashgarg30/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -418,4 +420,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashgarg30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/yashgarg30/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
