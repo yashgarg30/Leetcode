@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashgarg30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yashgarg30/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yashgarg30/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashgarg30/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yashgarg30/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/yashgarg30/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yashgarg30/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Math
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/yashgarg30/Leetcode/tree/master/0670-maximum-swap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashgarg30/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yashgarg30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/yashgarg30/Leetcode/tree/master/0053-maximum-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashgarg30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yashgarg30/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/yashgarg30/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yashgarg30/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
