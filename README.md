@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yashgarg30/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashgarg30/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashgarg30/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashgarg30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/yashgarg30/Leetcode/tree/master/0670-maximum-swap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashgarg30/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/yashgarg30/Leetcode/tree/master/0217-contains-duplicate) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yashgarg30/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/yashgarg30/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/yashgarg30/Leetcode/tree/master/2283-sort-even-and-odd-indices-independently) |
