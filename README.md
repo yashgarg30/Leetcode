@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/yashgarg30/Leetcode/tree/master/0670-maximum-swap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/yashgarg30/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2235-add-two-integers](https://github.com/yashgarg30/Leetcode/tree/master/2235-add-two-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/yashgarg30/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yashgarg30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
