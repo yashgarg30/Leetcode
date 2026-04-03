@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yashgarg30/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yashgarg30/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yashgarg30/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/yashgarg30/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/yashgarg30/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yashgarg30/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/yashgarg30/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/yashgarg30/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/yashgarg30/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yashgarg30/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/yashgarg30/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yashgarg30/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yashgarg30/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/yashgarg30/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3533-snake-in-matrix](https://github.com/yashgarg30/Leetcode/tree/master/3533-snake-in-matrix) |
 ## Depth-First Search
 |  |
