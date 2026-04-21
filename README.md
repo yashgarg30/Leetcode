@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/yashgarg30/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yashgarg30/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1470-shuffle-the-array](https://github.com/yashgarg30/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yashgarg30/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashgarg30/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yashgarg30/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
