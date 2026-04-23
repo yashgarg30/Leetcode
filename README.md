@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashgarg30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/yashgarg30/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/yashgarg30/Leetcode/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/yashgarg30/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/yashgarg30/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/yashgarg30/Leetcode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/yashgarg30/Leetcode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashgarg30/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/yashgarg30/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yashgarg30/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashgarg30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yashgarg30/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/yashgarg30/Leetcode/tree/master/0067-add-binary) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashgarg30/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/yashgarg30/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/yashgarg30/Leetcode/tree/master/0067-add-binary) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yashgarg30/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1929-concatenation-of-array](https://github.com/yashgarg30/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2411-spiral-matrix-iv](https://github.com/yashgarg30/Leetcode/tree/master/2411-spiral-matrix-iv) |
