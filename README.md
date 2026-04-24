@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yashgarg30/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yashgarg30/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/yashgarg30/Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/yashgarg30/Leetcode/tree/master/0069-sqrtx) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yashgarg30/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/yashgarg30/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yashgarg30/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashgarg30/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashgarg30/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/yashgarg30/Leetcode/tree/master/0069-sqrtx) |
 | [0729-my-calendar-i](https://github.com/yashgarg30/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yashgarg30/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yashgarg30/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
